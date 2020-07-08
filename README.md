@@ -8,8 +8,6 @@ Repositori ini berisi kompilasi modul beserta solusi latihan praktikum mata kuli
 - [Kebutuhan dan Instalasi](#kebutuhan%20dan%20instalasi)
   - [Jupyter Python Notebook](#jupyter%20python%20notebook)
   - [IDLE](#idle)
-- [Disclaimer](#disclaimer)
-- [Further Reading](#further%20reading)
 
 ## Topik Praktikum
 
